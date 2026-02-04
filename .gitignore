@@ -8,5 +8,4 @@ venv/
 .env
 prompt_test.txt
 
-data/docs/
 outputs/
